@@ -1,1 +1,4 @@
 This project is an individual project created in 2 days. By using react-js ,tailwind-css , weatherApi etc.I have developed this website in such a way that if the weather of any city is hot then ui will be appear as red in colour and if the weather is cold then then ui will be appear to be blue..It was a bit of challenging for me to deal with weatherapi specially in destructuring  and also I have used tailwind for css . but I did this and made a fully responsive weather app..here are some glimpse of my website...
+![Screenshot (1541)](https://user-images.githubusercontent.com/108016803/235243274-41062924-917c-4960-b820-b849493dd3fe.png)
+![Screenshot (1542)](https://user-images.githubusercontent.com/108016803/235243312-df92ccfd-aa07-4da4-92c6-777e67f76eab.png)
+![Screenshot (1543)](https://user-images.githubusercontent.com/108016803/235243345-d3222316-eb49-4fad-8fdf-fde3f853d22b.png)
