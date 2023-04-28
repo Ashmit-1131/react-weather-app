@@ -10,3 +10,11 @@
         font-family: 'Poppins', sans-serif;
     }
 }
+
+body {
+ 
+    background: var(--color-bg);
+    color: var(--color-white);
+    line-height: 1.7;
+    background-image: url(../src/assets/background.jpg);
+  }
